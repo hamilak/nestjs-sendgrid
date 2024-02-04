@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a basic integration of sendgrif in NestJS, using sendgrid mailer and nestjs mailer.
+This repository provides a basic integration of sendgrid in NestJS, using sendgrid mailer and nestjs mailer.
 
 ## Setup Instructions
 
